@@ -27,6 +27,7 @@ app.use(express.json());
 const allowedOrigins = [
   'http://localhost:5173', 
   'https://jamalcollection.com', 
+  'https://ecommerce-store-mern-k59q.vercel.app',
   'https://ecommerce-store-mern-lake.vercel.app'
 ];
 
